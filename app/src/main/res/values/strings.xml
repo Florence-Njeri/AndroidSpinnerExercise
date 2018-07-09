@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Andoid Spinner Exercise</string>
+    <string name="hint">Display selected option on button click</string>
+    <string name="assign">Assign Value</string>
+    <string-array name="countries_array">
+        <item>Country Name</item>
+        <item>Egypt</item>
+        <item>Kenya</item>
+        <item>Somalia</item>
+        <item>Burundi</item>
+        <item>South-Africa</item>
+    </string-array>
+</resources>
